@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 17 23:04:07 2017
 
-@author: Oyelson J
+@author: johnoyegbite
 """
 # Hangman game
 

@@ -1,4 +1,4 @@
-### Hangman game with Procedure oriented programming
+### Hangman game with Procedure Oriented Programming
 
 This is an interactive Hangman game between a player and the computer written
 in Python.
